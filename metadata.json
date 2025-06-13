@@ -1,0 +1,5 @@
+{
+  "name": "Dark Web Chat",
+  "description": "A lightweight, encrypted, ephemeral chat application designed for privacy, intended for use over Tor. All encryption and decryption happens client-side.",
+  "requestFramePermissions": []
+}
